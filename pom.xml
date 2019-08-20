@@ -185,15 +185,10 @@
         </dependency>
         <!-- test #-->
 
-        <dependency>
-            <groupId>com.ksyun</groupId>
-            <artifactId>uss-client</artifactId>
-            <version>3.0.28</version>
-        </dependency>
     </dependencies>
 
     <build>
-        <finalName>billing-measure-third</finalName>
+        <finalName>blog</finalName>
 
         <plugins>
             <plugin>
