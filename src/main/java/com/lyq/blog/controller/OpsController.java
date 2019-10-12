@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class OpsController {
 
     @RequestMapping
-    public String ok() {
-        return "service is ok";
+    public String iLoveCxj() {
+        return "我爱陈雪姣";
     }
 
 
